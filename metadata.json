@@ -1,0 +1,6 @@
+{
+  "name": "HabitRise",
+  "description": "Personal habit tracker for spiritual growth, morning routine, fitness, reading, and financial education with streaks and reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
